@@ -26,7 +26,7 @@ Write your code in `debug-function.ts` and include `debugger;` statements where 
 
 ## Running the Tests
 
-To run tests for debugiing.
+To run tests for debugging.
 
 ```sh
 npm test
